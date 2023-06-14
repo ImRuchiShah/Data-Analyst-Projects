@@ -44,10 +44,9 @@ Libraries: pandas, numpy, matplotlib, seaborn
 
 ***
 
-# Internship Projects
+# Projects
 | Project Name | Description | Tools Used |
 |---|---|---|
-| [Virtual Internship Project, Accenture](https://github.com/ImRuchiShah/Virtual-Internship-Project-Accenture-using-Excel.git) | To analyse content categories of Social media & content creation organization that highlights the top 5 categories with the largest aggregate popularity. | Microsoft Excel |
 | [Virtual Internship Project, KPMG](https://github.com/ImRuchiShah/KPMG-Virtual-Internship-Data-Analysis.git) | The organisation has a large dataset relating to its customers, and wants to effectively analyse it to help optimise its marketing strategy by analysing their existing customer dataset to determine customer trends and behaviour. | Python |
 
 
