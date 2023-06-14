@@ -47,7 +47,7 @@ Libraries: pandas, numpy, matplotlib, seaborn
 # Projects
 | Project Name | Description | Tools Used |
 |---|---|---|
-| [Virtual Internship Project, KPMG](https://github.com/ImRuchiShah/KPMG-Virtual-Internship-Data-Analysis.git) | The organisation has a large dataset relating to its customers, and wants to effectively analyse it to help optimise its marketing strategy by analysing their existing customer dataset to determine customer trends and behaviour. | Python |
+| [SprocketCentral Project](https://github.com/ImRuchiShah/KPMG-Virtual-Internship-Data-Analysis.git) | The organisation has a large dataset relating to its customers, and wants to effectively analyse it to help optimise its marketing strategy by analysing their existing customer dataset to determine customer trends and behaviour. | Python |
 
 
 
