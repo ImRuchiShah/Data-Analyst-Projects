@@ -14,7 +14,7 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 
 # SQL
 
-Functions used: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
+Functions used: Joins, CTEs, Window functions, Aggregations, CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation functions.
 
 | Project Name | Description |
 |---|---|
@@ -44,9 +44,3 @@ Libraries: pandas, numpy, matplotlib, seaborn
 | [Adventure Works Cycle](https://github.com/ImRuchiShah/Data-Analysis-using-PowerBI-on-Adventure-Works-Cycle.git) |  Developing Sales report giving detailed insights on best selling products and profitable customers. |
 
 ***
-
-
-
-
-
-
